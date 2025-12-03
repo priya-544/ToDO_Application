@@ -157,4 +157,14 @@ This project demonstrates a complete Todo CRUD system using:
 - C# .NET Web API for backend  
 - SQL Server for storage  
 
+## 🖼️ Screenshots
+![Home Page](screenshots/home.png)
+<img width="1900" height="868" alt="Home_Page" src="https://github.com/user-attachments/assets/8b51e3c4-78a8-4fe8-b63a-2e924268c4ba" />
+
+![Create](screenshots/create.png)
+<img width="1897" height="872" alt="Create_Page" src="https://github.com/user-attachments/assets/af26a91d-40fe-418a-8863-0f01a55d9690" />
+
+![Update](screenshots/update.png)
+<img width="1831" height="822" alt="Home1" src="https://github.com/user-attachments/assets/41a30033-8952-4bf8-b6c9-a5efe73fbb99" />
+
 It’s a perfect example of how a real full-stack application works end-to-end.
